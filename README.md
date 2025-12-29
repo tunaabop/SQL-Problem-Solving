@@ -1,2 +1,2 @@
 # Leetcode-Progress
-I created this repo to keep track of my LeetCode practice progress along with solutions to help me study for the coding interview!
+I created this repo to keep track of my SQL learning progress on [Visit Leetcode](https://leetcode.com/u/tunaabop/).
